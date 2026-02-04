@@ -34,6 +34,6 @@ print()
 admin.privileges()
 print()
 admin.descricao_usuario()
-
-
+print('teste')
+print('teste2')
     
