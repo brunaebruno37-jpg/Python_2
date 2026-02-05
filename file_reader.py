@@ -11,3 +11,4 @@ with open(filename) as file_object:
         print(line.rstrip())
 
 print('Muito bom!')
+print('Eu te amo Deus!')
