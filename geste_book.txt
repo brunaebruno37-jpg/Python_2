@@ -1,10 +1,9 @@
-Usuário: Bruno
-Usuário: bruna
-Usuário: silvio
-Usuário: Josécls; python -u "c:\Users\bruna\Desktop\Git-testes\Python_2\primeiro_form.py"
-Usuário: bruno
-Usuário: andeson
+Usuï¿½rio: Bruno
+Usuï¿½rio: bruna
+Usuï¿½rio: silvio
+Usuï¿½rio: Josï¿½cls; python -u "c:\Users\bruna\Desktop\Git-testes\Python_2\primeiro_form.py"
+Usuï¿½rio: bruno
+Usuï¿½rio: andeson
 Usuario: Cleidson
 Usuario: Elciva
 Usuario: bruno
-Motivo de estudar programacao: No começo comecei por dinheiro, mas estou me apaixonando pela area
