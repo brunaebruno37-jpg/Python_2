@@ -7,3 +7,4 @@ Usu�rio: andeson
 Usuario: Cleidson
 Usuario: Elciva
 Usuario: bruno
+Usuario: cls; python -u "c:\Users\bruna\Desktop\Git-testes\Python_2\Erros_e_excessoes\try_except.py"
