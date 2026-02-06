@@ -1,0 +1,1 @@
+O que eu aprendi sobre Python até o momento foi Python básico, uma noção sobre programação orientada a objetos, e como ler e executar arquivos .txt em um terminal no VScode.
